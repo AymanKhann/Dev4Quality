@@ -1,7 +1,7 @@
 import { expect } from 'chai';
 import eq from '../src/eq.js';
 
-describe('eq.js E-commerce Test Suite', () => {
+describe('eq.js Function - Test Cases', () => {
   it('should check if the product price matches the filter', () => {
     const price = 100;
     const filterPrice = 100;
